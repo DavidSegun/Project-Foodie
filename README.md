@@ -1,2 +1,2 @@
 # Project-Foodie
-A Forder Order App written in ReactJs
+A Food Order App written in ReactJs
