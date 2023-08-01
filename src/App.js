@@ -5,7 +5,7 @@ import { Fragment } from 'react';
 function App() {
   return (
     <Fragment>
-      <h1>Hello World</h1>
+      <h1>Welcome to your NO.1 Cloud Cafeteria</h1>
       <Header/>
       <main>
       <Meals/>
